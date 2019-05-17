@@ -3,7 +3,7 @@
 .grid-area {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 10vh 10vh 80vh;
+    grid-template-rows: 90px 90px 80vh;
     grid-template-areas: 
         "n h h h h h h h h h h h h"
         "n t t t t t t t t t t t t"
